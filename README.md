@@ -1,5 +1,7 @@
 # gleam-cmp.nvim
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 This is a source for [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) that autocompletes
 [hexpm](https://hex.pm/) packages and its versions. It's active only within a `gleam.toml` file.
 
