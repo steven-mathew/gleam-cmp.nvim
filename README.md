@@ -9,7 +9,8 @@ This is a source for [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) that autoco
 ## Installation
 
 For [packer](https://github.com/wbthomason/packer.nvim):
-```
+
+```lua
 use {
   'steven-mathew/gleam-cmp',
   requires = {
@@ -20,7 +21,7 @@ use {
 
 For [lazy.nvim](https://github.com/folke/lazy.nvim):
 
-```
+```lua
 {
   "steven-mathew/gleam-cmp",
   dependencies = { "nvim-lua/plenary.nvim" },
