@@ -37,8 +37,8 @@ Please refer to the default settings below.
 
 ```lua
 require("gleam-cmp.nvim").setup({
-    -- TODO
-    ignore = {}
+    only_latest_version = false,
+    only_latest_stable_version = false,
 })
 ```
 
