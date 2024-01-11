@@ -1,0 +1,9 @@
+name = "glarser"
+version = "0.1.0"
+
+[dependencies]
+gleam_stdlib = "~> 0.26"
+gleeunit = "~> 1.0"
+
+[dev_dependencies]
+gleeunit = "~> 0.10"
